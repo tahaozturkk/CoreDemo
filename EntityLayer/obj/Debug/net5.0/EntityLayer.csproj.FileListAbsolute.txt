@@ -1,0 +1,12 @@
+D:\Users\oztur\source\repos\CoreDemo\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+D:\Users\oztur\source\repos\CoreDemo\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+D:\Users\oztur\source\repos\CoreDemo\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+D:\Users\oztur\source\repos\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+D:\Users\oztur\source\repos\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\oztur\source\repos\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+D:\Users\oztur\source\repos\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+D:\Users\oztur\source\repos\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+D:\Users\oztur\source\repos\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+D:\Users\oztur\source\repos\CoreDemo\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+D:\Users\oztur\source\repos\CoreDemo\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+D:\Users\oztur\source\repos\CoreDemo\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll

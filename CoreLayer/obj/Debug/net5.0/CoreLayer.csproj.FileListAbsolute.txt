@@ -1,0 +1,12 @@
+D:\Users\oztur\source\repos\CoreDemo\CoreLayer\bin\Debug\net5.0\CoreLayer.deps.json
+D:\Users\oztur\source\repos\CoreDemo\CoreLayer\bin\Debug\net5.0\CoreLayer.dll
+D:\Users\oztur\source\repos\CoreDemo\CoreLayer\bin\Debug\net5.0\CoreLayer.pdb
+D:\Users\oztur\source\repos\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.AssemblyReference.cache
+D:\Users\oztur\source\repos\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\oztur\source\repos\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfoInputs.cache
+D:\Users\oztur\source\repos\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.AssemblyInfo.cs
+D:\Users\oztur\source\repos\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.csproj.CoreCompileInputs.cache
+D:\Users\oztur\source\repos\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.dll
+D:\Users\oztur\source\repos\CoreDemo\CoreLayer\obj\Debug\net5.0\refint\CoreLayer.dll
+D:\Users\oztur\source\repos\CoreDemo\CoreLayer\obj\Debug\net5.0\CoreLayer.pdb
+D:\Users\oztur\source\repos\CoreDemo\CoreLayer\obj\Debug\net5.0\ref\CoreLayer.dll
