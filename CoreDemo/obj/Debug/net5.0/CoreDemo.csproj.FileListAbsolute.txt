@@ -156,3 +156,4 @@ D:\Users\oztur\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Share
 D:\Users\oztur\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\UserLayout\Header\MainHeader.cshtml.g.cs
 D:\Users\oztur\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\UserLayout\Header\Icons.cshtml.g.cs
 D:\Users\oztur\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\UserLayout\Footer\MainFooter.cshtml.g.cs
+D:\Users\oztur\source\repos\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Blog\BlogReadAll.cshtml.g.cs
